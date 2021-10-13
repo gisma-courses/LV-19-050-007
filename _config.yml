@@ -3,7 +3,8 @@
 
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: LV-19-d19-006
-baseurl: https://gisma-courses.github.io/LV-19-d19-006/
+baseurl: /LV-19-d19-006
+#baseurl: https://gisma-courses.github.io/LV-19-d19-006/
 morea_theme: cerulean-green
 timezone: Europe/Berlin
 morea_navbar_items:
