@@ -7,7 +7,7 @@ published: true
 
 ## Welcome to LV-19-d19-006 - GIS, Winter 2021
 
-<div class="alert alert-danger" role="alert">
+<div class="alert alert-danger" role="alert">Note this course website of LV-19-d19-006 ist still under development.
  <a href=""></a>
 </div>
 
