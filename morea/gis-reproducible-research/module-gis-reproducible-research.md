@@ -16,9 +16,9 @@ morea_experiences:
  - experience-gis-reproducible-research-r
 morea_assessments:
  - assessment-gis-reproducible-research
-morea_icon_url: /morea/gis-reproducible-research-github/rr.png
+morea_icon_url: /morea/gis-reproducible-research/spatial-r-r.png
 morea_type: module
-morea_sort_order: 125
+morea_sort_order: 5
 morea_start_date: "2021-10-19"
 morea_end_date: "2021-11-02T23:00"
 ---

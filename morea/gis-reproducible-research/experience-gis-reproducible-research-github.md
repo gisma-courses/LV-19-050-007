@@ -12,6 +12,10 @@ morea_labels:
 
 # E09: How do software engineers contribute to the good life for others?
 
+
+{% include todo.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+
+
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 
 *Before starting this experience, please read [What do we mean when we talk about ethics?](reading-gis-reproducible-research-intro.html).*

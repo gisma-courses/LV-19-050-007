@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <img src="{{ site.baseurl }}/morea/header.jpg">
+  
+
+  <!--  Load bootswatch-based Morea theme file. -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/themes/{{ site.morea_theme }}/font-awesome.min.css">
+  
+  <img src="{{ site.baseurl }}/morea/header_gis.jpg" style="height:200px;> 
   <title> {{ site.name }} | {{ page.title }} </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
@@ -36,6 +41,9 @@
 
   <!-- Load JQuery, then use it to attach the class 'active' to navbar item currently displayed. -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  
+
+    
   <script>
     $(window).on('load', function () {
       $('.nav-item').find('a[href="' + location.pathname + '"]').addClass('active');

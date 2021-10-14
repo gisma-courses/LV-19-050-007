@@ -36,3 +36,4 @@ exclude: [morea]
 keep_files: [schedule/schedule-info.js]
 plugins:
   - jekyll-gist
+
