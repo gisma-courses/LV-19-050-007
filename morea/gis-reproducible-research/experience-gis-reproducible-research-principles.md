@@ -46,7 +46,7 @@ but because not doing so would violate their personal professional standards.”
 # Questions for discussion:
 ## Questions for discussion:
 ### Questions for discussion:
-
+#### Questions for discussion:
   1. Read over the [ACM Code of Ethics](http://www.acm.org/about/code-of-ethics) and the [Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code). Which code do you think is more helpful to you?  Why?
   
   2. To reiterate: the codes do not "constitute an algorithmic Turing machine that solves ethical problems." They are written by  humans, and so they may themselves contain "bugs".  Take a moment to consider the potential shortcomings of these code. Are there ethical obligations you adhere to that are not listed in these codes?  Do you find shortcomings with any of the ethical standards listed in the codes? 

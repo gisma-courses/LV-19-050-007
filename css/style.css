@@ -48,6 +48,11 @@ h3 {
   margin-top: .20em;
 }
 
+h4,h5 { 
+  font-size: 1.1em;
+  font-style:italic;
+  margin-top: .20em;
+}
 small {
   font-size: .6em
 }
