@@ -27,5 +27,7 @@ LV-19-d19-006 is structured as a sequential but not necessary linear series of [
 
 ## About the instructor
 
-[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) is a the head of the GI and environmental modelling lab at the University of Marburg. His research interests include (micro)-remote sensing, modelling of dynamic, agent-based and environmental systems, Open Source GI software development as well as competence-centred teaching concepts. 
+[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) is head of the GI and Environmental Modeling Laboratory in the Department of Geography at the University of Marburg.
+
+His research interests are the development of application-oriented algorithms and workflows in geoinformatics.  Besides (micro-)remote sensing and the modeling of dynamic, agent-based and environmental systems, the development of competence-centered teaching concepts in GI science is a major interest.
 
