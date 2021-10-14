@@ -98,10 +98,10 @@
     {% else %}
     No footer page content supplied.
     {% endif %}
-    <p style="margin: 0">Powered by the <a class="footer-link" href="http://morea-framework.github.io/">Morea Framework</a> (Theme: {{ site.morea_theme }})<br>
+    <p style="margin: 0;   font-size: .6em; ">Powered by the <a class="footer-link" href="http://morea-framework.github.io/">Morea Framework</a>
       Last update on: <span>{{ site.time }}</span></p>
 
-    <p style="margin: 0">
+    <p style="margin: 0;font-size: .6em;">
       {% if site.morea_navbar_items contains 'Prerequisites' %}
       {{ site.morea_prerequisite_pages.size }} prerequisites |
       {% endif %}
