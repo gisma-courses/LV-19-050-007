@@ -1,9 +1,9 @@
 ---
-title: "Guided tour of the ethics module"
+title: "Guided tour of the reproducible research module"
 published: true
-morea_id: reading-screencast-guided-tour-ethics
+morea_id: reading-screencast-gis-reproducible-research-1
 # morea_url: https://www.youtube.com/watch?v=_1KLYoEP1cQ
-morea_summary: "Overview of the ethics module"
+morea_summary: "Overview of the reproducible research module"
 morea_type: reading
 morea_sort_order: 2
 morea_labels:

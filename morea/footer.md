@@ -4,7 +4,7 @@ morea_id: footer
 morea_type: footer
 ---
 
-Philip Johnson | Information and Computer Sciences | University of Hawaii <br>
-johnson@hawaii.edu<br>
+Chris Reudenbach | GI & Modeling  | University of Marburg <br>
+reudenbach@uni-marburg.de<br>
 
 

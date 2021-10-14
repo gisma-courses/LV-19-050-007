@@ -1,7 +1,7 @@
 ---
-title: "E09: Doing good as a software engineer"
+title: "E09: Github"
 published: true
-morea_id: experience-se-ethics-good
+morea_id: experience-gis-reproducible-research-github
 morea_summary: "How can software engineers contribute to the good life for others?"
 morea_type: experience
 morea_start_date: "2021-07-27T23:00"
@@ -14,7 +14,7 @@ morea_labels:
 
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 
-*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-se-ethics-intro.html).*
+*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-gis-reproducible-research-intro.html).*
 
 There is a second way in which we need to broaden our understanding of engineering
 ethics. Ethics is not just about avoiding harms, as a narrow focus on preventing

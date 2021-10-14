@@ -1,10 +1,10 @@
 ---
-title: "E10: Doing harm as a software engineer"
+title: "E10: What is the role of R?"
 published: true
-morea_id: experience-se-ethics-harm
-morea_summary: "What kinds of harm can software engineers cause? What kinds can they prevent?"
+morea_id: experience-gis-reproducible-research-r
+morea_summary: "Why R"
 morea_type: experience
-morea_start_date: "2021-07-28T23:00"
+morea_start_date: "2021-10-26T18:00"
 morea_sort_order: 1
 morea_labels:
  - "Foundations: 3"
@@ -14,9 +14,9 @@ morea_labels:
 
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 
-*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-se-ethics-intro.html).*
+*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-gis-gis-reproducible-research-intro.html).*
 
-We noted above that failures of critical software systems can result in catastrophic loss
+We noted above that failures of critical ssoftware systems can result in catastrophic loss
 of life or injury to the public. If such failures result, directly or indirectly, from software
 engineers’ choices to ignore their professional obligations, then these harms are clearly
 the consequences of unethical professional behavior. Those responsible each bear the

@@ -1,10 +1,10 @@
 ---
 title: "E08: What are the professional codes of software engineering ethics?"
 published: true
-morea_id: experience-se-ethics-codes
+morea_id: experience-gis-reproducible-research-principles
 morea_summary: "How do professional codes help us to be ethical in our working lives?"
 morea_type: experience
-morea_start_date: "2021-07-26T23:00"
+morea_start_date: "2021-10-26T14:00"
 morea_sort_order: 1
 morea_labels:
  - "Foundations: 2"
@@ -14,7 +14,7 @@ morea_labels:
 
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 
-*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-se-ethics-intro.html).*
+*Before starting this experience, please read [What do we mean when we talk about ethics?](reading-gis-reproducible-research-intro.html).*
 
 Each professional society of engineers adopts and enforces its own codes of practice,
 including codes for ethical practice; for computer science in general, the standard is the [ACM Code of Ethics](http://www.acm.org/about/code-of-ethics). ACM also publishes a code specific for software engineering: the [Software Engineering Code of Ethics and Professional Practice](https://www.computer.org/web/education/code-of-ethics). 
