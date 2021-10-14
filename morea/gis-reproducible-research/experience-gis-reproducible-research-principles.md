@@ -43,8 +43,9 @@ and pragmatism in applying professional standards. Each of these qualities contr
 to the practical wisdom that allows us to apply ethical codes intelligently and successfully.
 Yet “Superprofessionals behave ethically not because it’s prescribed by a code of conduct,
 but because not doing so would violate their personal professional standards.”
-
-#### Questions for discussion:
+# Questions for discussion:
+## Questions for discussion:
+### Questions for discussion:
 
   1. Read over the [ACM Code of Ethics](http://www.acm.org/about/code-of-ethics) and the [Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code). Which code do you think is more helpful to you?  Why?
   

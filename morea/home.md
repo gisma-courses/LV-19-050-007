@@ -20,9 +20,9 @@ The Geoinformation Systems course is a full term overview of selected topics in 
 LV-19-d19-006 is structured as a sequential but not necessary linear series of [modules](/LV-19-d19-006//modules), each taking approximately two weeks to complete. Each module has the following structure:
 
   * [Prerequisites](/LV-19-d19-006/prerequisites), describing skills you should have prior to starting the module.
-  * [Learning outcomes](/LV-19-d19-006//outcomes), describing the major goals for the module.
-  * [Readings and other resources](/LV-19-d19-006/LV-19-d19-006/readings), providing background material.
-  * [Experiential learning activities](/LV-19-d19-006/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
+  * [Learning Outcomes](/LV-19-d19-006//outcomes), describing the major goals for the module.
+  * [Readings & Resources](/LV-19-d19-006/LV-19-d19-006/readings), providing background material.
+  * [Experiences](/LV-19-d19-006/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
   * [Assessments](/LV-19-d19-006/assessments), which help you and your instructor to determine if you have acquired mastery of the material.
 
 ## About the instructor
