@@ -13,5 +13,6 @@ morea_labels:
 
 ## Submission instructions
 
-{% include submission-jsfiddle.html assignment="E05" %}
+<div style="display:inline-block">
+<iframe width='1000px' height='800px'   src='https://rdrr.io/snippets/embed/' frameborder="0" allowfullscreen>></iframe></div>
 
