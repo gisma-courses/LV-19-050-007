@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: gis-reproducible-research
 morea_outcomes:
   - outcome-gis-reproducible-research
