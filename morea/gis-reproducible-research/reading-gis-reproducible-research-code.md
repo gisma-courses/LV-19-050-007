@@ -1,6 +1,6 @@
 ---
 title: "ACM Code of Ethics"
-published: true
+published: false
 morea_id: reading-gis-reproducible-research-code
 morea_summary: "This Code identifies a commitment to ethical professional conduct through 24 statements of personal responsibility."
 morea_type: reading
