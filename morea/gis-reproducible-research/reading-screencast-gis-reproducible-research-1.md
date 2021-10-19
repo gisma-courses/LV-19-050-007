@@ -1,6 +1,6 @@
 ---
 title: "Guided tour of the reproducible research module"
-published: true
+published: false
 morea_id: reading-screencast-gis-reproducible-research-1
 # morea_url: https://www.youtube.com/watch?v=_1KLYoEP1cQ
 morea_summary: "Overview of the reproducible research module"
