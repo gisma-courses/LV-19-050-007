@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Spatial R-GIS"
 published: true
-morea_coming_soon: false
+morea_coming_soon: true
 morea_id: spatial-r-gis
 morea_prerequisites:
  - working-env-setup

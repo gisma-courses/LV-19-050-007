@@ -1,7 +1,7 @@
 ---
 title: "Scientific Reporting"
 published: true
-morea_coming_soon: false
+morea_coming_soon: true
 morea_id: scientific-reporting
 morea_prerequisites:
  - working-env-setup
