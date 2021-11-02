@@ -1,13 +1,14 @@
 ---
-title: "What ist the payoff  learning R-GIS?"
+title: "R-GIS ecosystem at at a tipping point"
 published: true
 morea_id: reading-screencast-spatial-r-gis-1
-morea_summary: "Why you want to learn R spatial (even if you don't do spatial analysis)"
+morea_summary: "Learn something about the R ecosystem with special focus on spatial aspects"
 morea_type: reading
-morea_sort_order: 2
+morea_start_date: "2021-11-02"
+morea_sort_order: 21
 morea_labels:
- - Screencast
- - 13 min
+ - youtube 
+ - ~ 58 min
 ---
 
-{% include youtube.html id="H0qNUqoJqkQ" %}
+{% include youtube.html id="cK08bxUJn5A" %}

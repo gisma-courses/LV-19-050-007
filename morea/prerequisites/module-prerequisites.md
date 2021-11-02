@@ -14,10 +14,11 @@ morea_experiences:
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/prerequisites/setup-folder-icon.png
-morea_start_date: "2021-10-19T23:00"
+morea_start_date: "2021-10-26"
+morea_end_date: "2021-11-02"
 morea_labels: 
   - preparation
-morea_sort_order: 1
+morea_sort_order: 10
 ---
 These preparations should be taken to heart even before the course. It is the information about the content, organizational and technical requirements
 
