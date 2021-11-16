@@ -24,7 +24,7 @@ _**"Derivation of non-correlated forest parameters from LiDAR data for use in ma
   * Apply and document this findings with the help of the scripts you find in the given experiences of this unit.
   
   Please follow the instructions which will find under the section reproducible research. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way.
-  {% include note.html content="Please follow the instructions which will find under the module *reproducible research*. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way." %}
+  {% include note.html content="Please follow the instructions which will find under the module *Scientific Reporting*. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way." %}
   
 
 {% include note.html content="Do not forget to create a github repo and invite your instructor! **Deliverable  markdown file with code results and argumentation.**" %}
