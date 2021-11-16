@@ -21,13 +21,12 @@ _**"Derivation of non-correlated forest parameters from LiDAR data for use in ma
 
   * Read the ressources related to forest and summarise at one article
   * Decide which algorithms and indices are adequate to answer the research question
-  * Apply the experiences given experiences in this unit
+  * Apply and document this findings with the help of the scripts you find in the given experiences of this unit.
   
-  **Deliverable  markdown file with code results and argumentation.**
+  Please follow the instructions which will find under the section reproducible research. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way.
+  {% include note.html content="Please follow the instructions which will find under the module *reproducible research*. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way." %}
+  
 
-
-## Outcomes
-
-The following outcomes were assessed: {{ page.morea_outcomes_assessed_titles }}
+{% include note.html content="Do not forget to create a github repo and invite your instructor! **Deliverable  markdown file with code results and argumentation.**" %}
 
 
