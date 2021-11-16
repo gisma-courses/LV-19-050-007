@@ -11,19 +11,19 @@ morea_start_date: "2021-11-16T18:00"
 morea_end_date: "2021-11-30T18:00"
 morea_sort_order: 2
 ---
-# Assessment of 
 
 ## Assesment 
 
-The given research question is:
+Let us assume that the  given research question is something like:
 
-*Derivation of non-correlated forest parameters from LiDAR data for use in machine learning modeling*
+_**"Derivation of non-correlated forest parameters from LiDAR data for use in machine learning modeling"**_
+
 
   * Read the ressources related to forest and summarise at one article
   * Decide which algorithms and indices are adequate to answer the research question
   * Apply the experiences given experiences in this unit
   
-  Deliverable  markdown file with code results and argumentation.
+  **Deliverable  markdown file with code results and argumentation.**
 
 
 ## Outcomes

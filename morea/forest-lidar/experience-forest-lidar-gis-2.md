@@ -1,5 +1,5 @@
 ---
-title: "Hands on LiDAR"
+title: "Calculating DEM, DSM and CHM"
 published: true
 morea_id: experience-forest-lidar-gis-2
 morea_type: experience

@@ -13,6 +13,7 @@ morea_readings:
 morea_experiences:
   - experience-forest-lidar-gis-1
   - experience-forest-lidar-gis-2
+  - experience-forest-lidar-gis-3
 morea_assessments:
   - assessment-forest-lidar-gis-1
 morea_type: module
