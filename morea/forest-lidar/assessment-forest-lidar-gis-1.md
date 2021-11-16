@@ -14,19 +14,19 @@ morea_sort_order: 2
 
 ## Assesment 
 
-Let us assume that the  given research question is something like:
-
-_**"Derivation of non-correlated forest parameters from LiDAR data for use in machine learning modeling"**_
 
 
-  * Read the ressources related to forest and summarise at one article
-  * Decide which algorithms and indices are adequate to answer the research question
-  * Apply and document this findings with the help of the scripts you find in the given experiences of this unit.
+
+{% include quest.html content="Suppose the research question we are concerned with is as follows: <br>_Is it possible to derive a suitable set of predictor variables from LiDAR data to obtain a reliable prediction of the microclimate parameters temperature and humidity?_"%}
+
+
+
+
+{% include task.html content="<br> - Read the ressources related to forest and summarise at one article <br>- Decide which algorithms and indices are adequate to answer the research question<br> - Apply and document this findings with on base of the scripts of the this unit experiences" %}
+ 
   
-  Please follow the instructions which will find under the section reproducible research. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way.
-  {% include note.html content="Please follow the instructions which will find under the module *Scientific Reporting*. You will find templates instructions and schemes which may help you to produce your deliverables in a convienient way." %}
+  {% include note.html content="Please follow the instructions you will find under the module *Scientific reporting*. There you will find templates, instructions and schemes that will support you in the creation of scientific texts, both technically and structurally." %}
   
 
-{% include note.html content="Do not forget to create a github repo and invite your instructor! **Deliverable  markdown file with code results and argumentation.**" %}
-
+{% include alert.html content="Don't forget to create a Github repo and invite your instructor!" %}
 
