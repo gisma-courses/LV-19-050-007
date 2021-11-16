@@ -7,8 +7,8 @@ morea_outcomes_assessed:
  - outcome-forest-lidar-gis-1
 morea_type: assessment
 morea_labels:
-morea_start_date: "2021-11-16T18:00"
-morea_end_date: "2021-11-30T18:00"
+morea_start_date: "2021-11-16T16:00"
+morea_end_date: "2021-11-30T23:00"
 morea_sort_order: 2
 ---
 

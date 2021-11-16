@@ -6,7 +6,8 @@ morea_type: experience
 morea_summary: Calculating DEM, DSM and CHM
 morea_sort_order: 3
 morea_url: https://gisma-courses.github.io/gi-modules/post/2021-11-15-dem-dsm-and-chm-from-lidar/
-morea_start_date: "2021-11-16T19:00"
+morea_start_date: "2021-11-16T16:00"
+morea_end_date: "2021-11-30T23:00"
 morea_labels:
 ---
 
