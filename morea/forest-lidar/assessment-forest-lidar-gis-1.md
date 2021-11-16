@@ -2,34 +2,29 @@
 title: "Creating some basic forest indices with lidR"
 published: true
 morea_id: assessment-forest-lidar-gis-1
-morea_summary:  manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications
+morea_summary:  Reading and summarising LiDAR article. Identification of 5-10 non highly correlated Indices. Calculation of this indices
 morea_outcomes_assessed:
  - outcome-forest-lidar-gis-1
 morea_type: assessment
 morea_labels:
-morea_start_date: "2021-12-15T09:00"
+morea_start_date: "2021-11-16T18:00"
+morea_end_date: "2021-11-30T18:00"
 morea_sort_order: 2
-morea_chartjs_data: '[1, 3, 2]'
-morea_chartjs_labels: '["Excellent", "Satisfactory", "Unsatisfactory"]'
-morea_chartjs_colors: '["green", "yellow", "red"]'
 ---
-# Assessment of simple forest-lidar-gis skills
+# Assessment of 
 
-## Summary of results
+## Assesment 
 
-Here are the results of this assessment:
+The given research question is:
 
-{%  include assessment-chartjs.html  %}
+*Derivation of non-correlated forest parameters from LiDAR data for use in machine learning modeling*
 
-## Feedback
+  * Read the ressources related to forest and summarise at one article
+  * Decide which algorithms and indices are adequate to answer the research question
+  * Apply the experiences given experiences in this unit
+  
+  Deliverable  markdown file with code results and argumentation.
 
-Some comments regarding this assessment:
-
-  * It appears that a significant number of students will need to improve their study habits. Please don't hesitate to contact me or the TA if you are having problems!
-  * Those who did not perform well often forgot one or more of the following:
-    * Syntax errors in their program
-    * Inability to use JSFiddle effectively.
-    * Lack of understanding .
 
 ## Outcomes
 
