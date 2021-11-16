@@ -4,7 +4,8 @@ published: true
 morea_coming_soon: false
 morea_id: spatial-r-gis
 morea_prerequisites:
- - working-env-setup
+ - experience-pre-know-how-1
+ - reading-pre-know-how-3
 morea_outcomes:
   - outcome-spatial-r-gis-1
 morea_readings:
