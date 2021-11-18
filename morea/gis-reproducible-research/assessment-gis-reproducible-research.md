@@ -21,6 +21,6 @@ morea_labels:
 
 
 
-{% include task.html content="<br> - Follow The instructions for setting up the blogdoen website and start with your writings " %}
+{% include task.html content="<br> - Follow The instructions for setting up the blogdown website and start with your writings " %}
  
 
