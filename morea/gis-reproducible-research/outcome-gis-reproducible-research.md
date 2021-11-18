@@ -4,6 +4,8 @@ published: true
 morea_id: outcome-gis-reproducible-research
 morea_type: outcome
 morea_sort_order: 9
+morea_start_date: "2021-11-16T16:00"
+morea_end_date: "2021-11-16T20:00"
 ---
   * You understand the need for both personal and professional ethics.
   * You can analyze the ethical implications of software engineering practices that can incur harm.

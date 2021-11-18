@@ -4,8 +4,7 @@ published: true
 morea_id: outcome-forest-lidar-gis-1
 morea_type: outcome
 morea_sort_order: 7
-morea_start_date: "2021-11-16T16:00"
-morea_end_date: "2021-11-30T23:00"
+morea_start_date: "2021-11-16"
 ---
 
   * You can handle and manipulate LAS data

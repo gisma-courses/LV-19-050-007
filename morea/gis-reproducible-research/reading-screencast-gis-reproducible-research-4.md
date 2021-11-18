@@ -8,6 +8,8 @@ morea_sort_order: 5
 morea_labels:
  - Talk
  - 4:20 min
+morea_start_date: "2021-11-16T16:00"
+morea_end_date: "2021-11-16T20:00" 
 ---
 
 # Beyond all try the Fiji Test

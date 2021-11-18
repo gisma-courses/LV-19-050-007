@@ -41,7 +41,7 @@ title: Schedule
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      initialView: 'dayGridWeek',  
+      initialView: 'agendaWeek',  
       eventColor: '#446e9b',
     header: {
       left: 'prev,next',
@@ -50,7 +50,8 @@ title: Schedule
     },
     eventSources: [{events: moreaEventData}, holidayData],
     nowIndicator: false,
-    slotDuration: { days: 1 }
+    slotDuration: { days: 1 },
+    timeFormat: 'H(:mm)'
     });
     calendar.render();
   });
