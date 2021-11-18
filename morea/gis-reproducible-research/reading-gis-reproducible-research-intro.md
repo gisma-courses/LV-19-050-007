@@ -1,6 +1,6 @@
 ---
 title: "What do we mean with reproducible research?"
-published: false
+published: true
 morea_id: reading-gis-reproducible-research-intro
 morea_summary: "Definition of reproducible research, tools and workflows"
 morea_url: https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/
