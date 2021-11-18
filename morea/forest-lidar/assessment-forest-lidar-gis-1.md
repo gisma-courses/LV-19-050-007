@@ -1,5 +1,5 @@
 ---
-title: "Creating some basic forest indices with lidR"
+title: "Assessment: LiDAR based Forest Indices"
 published: true
 morea_id: assessment-forest-lidar-gis-1
 morea_summary:  Reading and summarising LiDAR article. Identification of 5-10 non highly correlated Indices. Calculation of this indices
@@ -8,6 +8,7 @@ morea_outcomes_assessed:
 morea_type: assessment
 morea_labels:
 morea_start_date: "2021-11-16"
+morea_end_date: "2021-11-29"
 morea_sort_order: 2
 ---
 
