@@ -22,10 +22,12 @@ morea_sort_order: 2
 
 
 
-{% include task.html content="<br> - Read the ressources related to forest and summarise at one article <br>- Decide which algorithms and indices are adequate to answer the research question<br> - Apply and document this findings with on base of the scripts of the this unit experiences" %}
+{% include task.html content="<br> - Read the ressources related to forest and identify those which you will use for attempting the task. <br>- Decide which algorithms and indices are adequate to answer the research question<br> - Apply and document this findings with on base of the scripts of the this unit experiences" %}
  
   
-  {% include note.html content="Please follow the instructions you will find under the module *Scientific reporting*. There you will find templates, instructions and schemes that will support you in the creation of scientific texts, both technically and structurally." %}
+  {% include note.html content="
+  You will find backgounds under the module [Reproducible Research](https://gisma-courses.github.io/LV-19-d19-006/modules/gis-reproducible-research/) that will guide you in the creation of scientific research. <br>
+  For this task please follow the instructions you will find at [Academic wiriting made easy](https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-academic-websites/). " %}
   
 
 {% include alert.html content="Don't forget to create a Github repo and invite your instructor!" %}
