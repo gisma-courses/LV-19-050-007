@@ -14,6 +14,7 @@ morea_readings:
  - reading-gis-reproducible-research-6
 morea_experiences:
  - experience-gis-reproducible-research-r
+ - experience-gis-reproducible-research-bd-1
 morea_assessments:
  - assessment-gis-reproducible-research
 morea_icon_url: /morea/gis-reproducible-research/spatial-r-r.png
