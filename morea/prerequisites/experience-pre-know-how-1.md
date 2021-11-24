@@ -10,6 +10,9 @@ morea_sort_order: 5
 morea_labels:
   - Mandantory
   - Practical Work
-  
 ---
 
+
+To set up a working or project environment, (normally) the first steps are defining different folder paths and loading the necessary R packages as well as additional functions.
+
+If you also need to access additional software, like GIS, the appropriate binaries and software environments must be linked, too. Factoring in the major operating systems and the potentially multiple versions of software installed on a single system results in almost unlimited combinations of set ups.
