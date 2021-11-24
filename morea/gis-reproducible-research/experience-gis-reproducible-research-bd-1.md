@@ -2,16 +2,15 @@
 title: "Setup of a blogdown Site"
 published: true
 morea_id: experience-gis-reproducible-research-bd-1
-morea_summary: "Part 1 of setting up a blogdown website"
+morea_summary: "Part 1-3 setting up a blogdown website with RStudio and GitHub"
 morea_type: experience
-morea_start_date: "2021-11-16T16:00"
-morea_end_date: "2021-11-16T20:00"
 morea_sort_order: 1
 morea_labels:
- - "Scientific Writing"
+ - "Screencast"
+ - "Rmarkdown"
  - ~ 5 Min
  - ~ 15 Min
- - 6 Min
+ - ~ 6 Min
 ---
 ## Screencasts blogdown 
 ### Setting up

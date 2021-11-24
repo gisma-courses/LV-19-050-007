@@ -7,8 +7,7 @@ morea_url: https://www.earthdatascience.org/courses/intro-to-earth-data-science/
 morea_type: reading
 morea_sort_order: 1
 morea_labels:
- - "Foundations: 1"
-morea_start_date: "2021-11-16T16:00"
-morea_end_date: "2021-11-16T20:00" 
+ - "Reading"
+ - 10 min
 ---
 

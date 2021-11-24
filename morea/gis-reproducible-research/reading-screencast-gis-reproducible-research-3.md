@@ -7,7 +7,7 @@ morea_type: reading
 morea_sort_order: 4
 morea_labels:
  - Talk
- - 8:23 min
+ - ~ 8 min
 ---
 # Guideline for Reproducible Research
 {% include youtube.html id="pjL2uP-fmPY" %}
