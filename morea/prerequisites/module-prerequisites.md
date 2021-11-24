@@ -9,9 +9,8 @@ morea_readings:
   - reading-pre-know-how-0
   - reading-pre-know-how-2
   - reading-pre-know-how-3  
-morea_experiences:
-  - experience-pre-know-how-1
 morea_assessments:
+  - assessment-pre-know-how-1
 morea_type: module
 morea_icon_url: /morea/prerequisites/setup-folder-icon.png
 morea_start_date: "2021-10-26"

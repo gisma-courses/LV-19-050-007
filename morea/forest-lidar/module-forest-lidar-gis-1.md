@@ -4,7 +4,6 @@ published: true
 morea_coming_soon: false
 morea_id: forest-lidar-gis
 morea_prerequisites:
-  - experience-pre-know-how-1
   - assessment-gis-reproducible-research
   - assessment-spatial-r-gis-1
 morea_outcomes:

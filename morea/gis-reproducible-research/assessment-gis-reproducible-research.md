@@ -16,8 +16,6 @@ morea_labels:
 # Setting up a Website with RStudio that provides all Exercises and Communication on Github.
 
 
-
-
 {% include quest.html content="The Deliverables of the course is copmiled in a GitHub hosted Website using templates."%}
 
 

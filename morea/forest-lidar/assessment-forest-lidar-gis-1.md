@@ -6,10 +6,11 @@ morea_summary:  Reading and summarising LiDAR article. Identification of 5-10 no
 morea_outcomes_assessed:
  - outcome-forest-lidar-gis-1
 morea_type: assessment
-morea_labels:
-morea_start_date: "2021-11-16"
-morea_end_date: "2021-11-29"
+morea_start_date: "2021-11-30T23:59"
 morea_sort_order: 2
+morea_labels:
+- Deliverable
+- Submission
 ---
 
 ## Assesment 
