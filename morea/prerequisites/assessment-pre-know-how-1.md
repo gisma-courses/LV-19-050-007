@@ -1,5 +1,5 @@
 ---
-title: "How to setup an appropriate working environment"
+title: "Assessment getting organized"
 published: true
 morea_id: assessment-pre-know-how-1
 morea_type: experience

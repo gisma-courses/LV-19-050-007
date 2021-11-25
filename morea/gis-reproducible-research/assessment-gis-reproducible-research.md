@@ -1,5 +1,5 @@
 ---
-title: "Setup a Website for Course Documentation"
+title: "Assessment Website for Course Documentation"
 published: true
 morea_id: assessment-gis-reproducible-research
 morea_summary: Setting up a Website with RStudio that provides all Exercises and Communication on Github.
