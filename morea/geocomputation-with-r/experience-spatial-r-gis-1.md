@@ -5,9 +5,9 @@ morea_id: experience-spatial-r-gis-1
 morea_type: experience
 morea_summary: "spatial packages, terra,  sf,  dplyr"
 morea_sort_order: 1
-morea_start_date: "2021-11-02"
 morea_labels:
-  - Basics
+  - Reference
+  - Textbook
 ---
 
 

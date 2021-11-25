@@ -4,7 +4,6 @@ published: true
 morea_coming_soon: false
 morea_id: gis-reproducible-research
 morea_outcomes:
-  - outcome-gis-reproducible-research
 morea_readings:
  - reading-gis-reproducible-research-intro
  - reading-screencast-gis-reproducible-research-5
@@ -22,6 +21,7 @@ morea_icon_url: /morea/gis-reproducible-research/spatial-r-r.png
 morea_type: module
 morea_sort_order: 15
 morea_start_date: "2021-10-19"
+morea_start_date: "2021-10-29"
 
 ---
 The importance of reproducible research lies in the reproducibility of research results - i.e. the ability to repeat experimental procedures and thus confirm previously obtained results - this is the central element of scientific work.

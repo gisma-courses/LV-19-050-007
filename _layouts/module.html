@@ -37,7 +37,7 @@ layout: default
       <p>
         {% for label in outcome.morea_labels %}
         <span class="badge">{{ label }}</span>
-        {% endfor %}
+      {% endfor %}
       </p>
       {{ outcome.content | markdownify }}
     {% endfor %}

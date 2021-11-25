@@ -11,6 +11,7 @@ morea_sort_order: 2
 morea_labels:
 - Deliverable
 - Submission
+- Mandantory
 ---
 
 ## Assesment 

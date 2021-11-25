@@ -6,8 +6,8 @@ morea_type: reading
 morea_summary: "spatial packages, terra, raster, sf, spData, spDataLarge"
 morea_sort_order: 24
 morea_url: https://geocompr.robinlovelace.net/spatial-class.html
-morea_start_date: "2021-11-02"
 morea_labels:
-  - Basics
+  - Reference
+  - Textbook
 ---
 

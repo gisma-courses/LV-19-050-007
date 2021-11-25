@@ -5,10 +5,9 @@ morea_id: experience-spatial-r-gis-2
 morea_type: experience
 morea_summary: "spatial packages, terra, sf - data IO"
 morea_sort_order: 24
-morea_url:  
-morea_start_date: "2021-11-02T23:00"
 morea_labels:
-  - Basics
+  - Reference
+  - Textbook
 ---
 
 

@@ -5,9 +5,8 @@ morea_id: reading-screencast-spatial-r-gis-3
 morea_summary: "Yihui Xie is giving a brief overview..."
 morea_type: reading
 morea_sort_order: 23
-morea_start_date: "2021-11-02"
 morea_labels:
- - youtube 
+ - talk 
  - ~ 28 min
 ---
 

@@ -6,7 +6,6 @@ morea_summary: "Lidar Remote Sensing of Forest Structure, Biomass and Dynamics"
 morea_url: https://www.mdpi.com/journal/remotesensing/special_issues/Lidar_Forest_Dynamics
 morea_type: reading
 morea_sort_order: 2
-morea_start_date: "2021-11-16T16:00"
 morea_labels:
   - Reference
   - Supplemental

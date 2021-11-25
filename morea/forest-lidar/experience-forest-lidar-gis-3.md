@@ -7,6 +7,8 @@ morea_summary: Calculating Metrics
 morea_sort_order: 3
 morea_url: https://jean-romain.github.io/lidRbook/metrics.html
 morea_labels:
+- Skript
+
 ---
 
 

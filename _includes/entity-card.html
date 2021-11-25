@@ -10,6 +10,7 @@
       <h4 class="card-title">{{ include.title }}</h4>
       {{ include.summary | markdownify }}
 
+
     {% if include.outcomes %}
       <p>
         <em>Outcome(s) assessed:</em>
@@ -22,7 +23,17 @@
 
     <div style="border-top-color: transparent" class="card-footer bg-body">
       {% for label in include.labels %}
-      <span class="badge bg-primary">{{ label }}</span>
+      <!-- If customer.name = "anonymous" -->
+      {% if label contains "Mandantory" %}
+      <span class="badge badge-warning">{{ label }}</span>       
+      {% else %}
+      <span class="badge-success">{{ label }}</span>       
+      {% endif %}
+
+      
+
+      
+      
       {% endfor %}
     </div>
     <a href="{{ include.url }}" class="stretched-link"></a>
