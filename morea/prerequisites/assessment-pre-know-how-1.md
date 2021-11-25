@@ -11,6 +11,7 @@ morea_sort_order: 05
 morea_labels:
 - Deliverable
 - Submission
+- Mandantory
 ---
 
 ## Step by Step instructions setting up your workbench
