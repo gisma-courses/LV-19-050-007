@@ -9,9 +9,9 @@ morea_type: assessment
 morea_start_date: "2021-11-02T23:59"
 morea_sort_order: 05
 morea_labels:
-- Deliverable
+- Obligate
 - Submission
-- Mandantory
+
 ---
 
 ## Step by Step instructions setting up your workbench

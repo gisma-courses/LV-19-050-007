@@ -11,8 +11,8 @@ morea_type: assessment
 morea_start_date: "2021-11-09T23:59"
 morea_sort_order: 12
 morea_labels:
-- Deliverable
-- Submission
+- Mandantory
+
 ---
 
 

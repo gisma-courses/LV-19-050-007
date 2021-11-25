@@ -7,7 +7,8 @@ morea_url: https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-
 morea_type: experience
 morea_sort_order: 1
 morea_labels:
- - "Practices"
+ - Practices
  - 30 min
+ - Mandantory
 ---
 

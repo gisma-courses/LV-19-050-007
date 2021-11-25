@@ -7,9 +7,8 @@ morea_type: assessment
 morea_start_date: "2021-11-16T23:59"
 morea_sort_order: 12
 morea_labels:
-- Deliverable
-- Submission
-- Mandantory
+- Obligate
+- Submissions
 ---
 
 # Setting up a Website with RStudio that provides all Exercises and Communication on Github.
