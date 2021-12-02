@@ -5,26 +5,22 @@ morea_type: home
 published: true
 ---
 
-## Welcome to LV-19-d19-006 - GIS, Winter 2021
+## Willkommen zu Veranstaltung LV-19-050-007 - Methoden der Geoinformatik
 
 
+Die Lehrveranstaltung Methoden der Geoinformatik bietet Überblick über ausgewählte Themen der Handhabung und Analyse von raum-zeitlichen Daten. Es werden sowohl interaktive Bearbeitung mit Werkzeugen wie QGIS als auch skriptbasierte reproduzierbare Arbeitsabläufe behandelt, basierend auf R und Open Source Software und einer vollständigen Integration von GitHub. 
 
-The Geoinformation Systems course is a full term overview of selected topics in advanced GIS analysis as reproducible research workflows, based on R and Open Source Software and a full integration of GitHub. 
+## Wer sollte diesen Kurs besuchen?
 
-## Who should take this course
+  Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grundkenntnisse in der Organisation ihres Betriebssystems verfügen.
 
-  This course is intended for the master level in Geography to participants who have a working knowledge of the basic organisation of there operating system.
+## Didaktisches Konzept
 
-## Didactical concept
+Der Kurs ist als eine sequentielle, aber *nicht* notwendig lineare abzuarbeitende Folge von [Modulen](/LV-19-050-007/modules) aufgebaut, die jeweils etwa zwei bis 3 Wochen dauern. Jedes Modul hat die folgende Struktur:
 
-LV-19-d19-006 is structured as a sequential but *not* necessary linear series of [modules](/LV-19-d19-006/modules), each taking approximately two weeks to complete. Each module has the following internal structure:
+  * [Voraussetzungen](/LV-19-050-007/Voraussetzungen) - Grundkenntnisse, auf die für das Modul benötigt werden.
+  * [Lernergebnisse](/LV-19-050-007//outcomes) - was ist das Lernziel.
+  * [Lektüre & Ressourcen](/LV-19-050-007/readings), Hintergrundmaterial.
+  * [Erfahrungen](/LV-19-050-007/experiences) - Training und Übungen um die Lernziele praktisch zu beherrschen.
+  * [Assessments](/LV-19-050-007/assessments) - Studien-/Prüfungsleistungen.
 
-  * [Prerequisites](/LV-19-d19-006/prerequisites) - basic skills you should have prior the module/course start.
-  * [Learning Outcomes](/LV-19-d19-006//outcomes) - the major goals for the module.
-  * [Readings & Resources](/LV-19-d19-006/readings), providing background material.
-  * [Experiences](/LV-19-d19-006/experiences) -a structured set of challenges enabling you to acquire mastery of material.
-  * [Assessments](/LV-19-d19-006/assessments) - performance check.
-
-## About the instructor
-
-[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) is head of the GI and Environmental Modeling Laboratory in the Department of Geography at the University of Marburg.

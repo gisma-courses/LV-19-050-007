@@ -1,8 +1,8 @@
 ---
-title: "Web based Documentation of Scientific Work"
+title: "Bloggen eine webgestützte Documentation wissenschaftlicher Arbeitsprozesse und Resultate"
 published: true
 morea_id: experience-gis-reproducible-research-r
-morea_summary: "Setting up a blogdown Website for documentation"
+morea_summary: "Blogdown und Hugo"
 morea_url: https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-academic-websites/
 morea_type: experience
 morea_sort_order: 1

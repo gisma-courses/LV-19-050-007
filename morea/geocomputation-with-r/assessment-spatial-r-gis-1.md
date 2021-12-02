@@ -1,12 +1,12 @@
 ---
 title: "Assessment R-spatial GIS"
 published: true
-morea_id: assessment-spatial-r-gis-1
+morea_id: assessment-r-spatial
 morea_summary: raster::writeraster? tmap? sf:st_intersection?
 morea_readings:
- - experience-spatial-r-gis-1
+ - experience-r-spatial-1
 morea_outcomes_assessed:
- - outcome-spatial-r-gis-1
+ - outcome-r-spatial
 morea_type: assessment
 morea_start_date: "2021-11-09T23:59"
 morea_sort_order: 12
@@ -35,7 +35,7 @@ For this time no upload or defined exercise has to be done.
   
   {% include note.html content="
   
-You might find it helpful to document your learning progress and experiences in a portfolio.Support is provided by the module [Reproducible Research](https://gisma-courses.github.io/LV-19-d19-006/modules/gis-reproducible-research/) It provides some entry points for documenting and structuring inquiry-based learning and work. <br>
+You might find it helpful to document your learning progress and experiences in a portfolio.Support is provided by the module [Reproducible Research](https://gisma-courses.github.io/LV-19-050-007/modules/gis-reproducible-research/) It provides some entry points for documenting and structuring inquiry-based learning and work. <br>
   For this task you might follow the instructions you will find at [Academic wiriting made easy](https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-academic-websites/). " %}
 
 {% include quest.html content="For this time no upload of the exercises has to be done."%}

@@ -1,11 +1,11 @@
 ---
-title: "Competent with elementary R spatial concepts"
+title: "Grundkompetenzen in der Automatisierung räumlicher Analysen"
 published: true
-morea_id: outcome-spatial-r-gis-1
+morea_id: outcome-r-spatial
 morea_type: outcome
 morea_sort_order: 7
 ---
 
-  * You can use basic R spatial packages
-  * You can implement simple functions 
-  * You can implement simple conditional and loop structures in a given context
+  * Sie können etwas mir R und der Arbeitsumgebung Rstudio anfangen
+  * Sie haben ihr erstes Progamm angepsst und ablaufen lassen
+  
