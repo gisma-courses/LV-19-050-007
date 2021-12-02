@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R-spatial with geocomputation with R"
 published: true
-morea_id: experience-spatial-r-gis-2
+morea_id: experience-r-spatial-2
 morea_type: experience
 morea_summary: "spatial packages, terra, sf - data IO"
 morea_sort_order: 24

@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research"
+title: "Reproduzierbare Forschung und ihre Dokumentation"
 published: true
 morea_coming_soon: false
 morea_id: gis-reproducible-research
@@ -7,9 +7,6 @@ morea_outcomes:
 morea_readings:
  - reading-gis-reproducible-research-intro
  - reading-screencast-gis-reproducible-research-5
- - reading-screencast-gis-reproducible-research-1
- - reading-screencast-gis-reproducible-research-2
- - reading-screencast-gis-reproducible-research-3
  - reading-screencast-gis-reproducible-research-4
  - reading-gis-reproducible-research-6
 morea_experiences:
@@ -24,4 +21,4 @@ morea_start_date: "2021-10-19"
 morea_start_date: "2021-10-29"
 
 ---
-The importance of reproducible research lies in the reproducibility of research results - i.e. the ability to repeat experimental procedures and thus confirm previously obtained results - this is the central element of scientific work.
+Die Bedeutung reproduzierbarer Forschung liegt in der Transparenz und Wiederholbarkeit von Forschungsergebnissen - d.h. der Möglichkeit auch experimentelle Verfahren zu wiederholen und damit bereits erzielte Ergebnisse zu bestätigen - dies ist das zentrale Element wissenschaftlicher Arbeit.

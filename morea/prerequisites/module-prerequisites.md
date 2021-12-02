@@ -1,23 +1,23 @@
 ---
-title: "Knowledge and prerequisites for the course"
+title: "Eine schnelle Einführung in GIS"
 published: true
 morea_coming_soon: false
 morea_id: module-prerequisites
 morea_outcomes:
-  - outcome-pre-know-how
+  - outcome
 morea_readings:
-  - reading-pre-know-how-0
-  - reading-pre-know-how-2
-  - reading-pre-know-how-3  
+  - reading-1
+  - reading-2
+  - reading-3
 morea_assessments:
-  - assessment-pre-know-how-1
+  - assessment
 morea_type: module
 morea_icon_url: /morea/prerequisites/setup-folder-icon.png
 morea_start_date: "2021-10-26"
 morea_end_date: "2021-11-02"
 morea_labels: 
-  - preparation
+  - Einführung
 morea_sort_order: 10
 ---
-These preparations should be taken to heart even before the course. It is the information about the content, organizational and technical requirements
 
+Diese einführenden Texte sollen eine grundsätzuliche Idee über die konzeptionellen und technischen Hintergründe vermitteln.
