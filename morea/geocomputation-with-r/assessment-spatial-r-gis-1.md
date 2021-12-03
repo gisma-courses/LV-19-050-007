@@ -12,6 +12,7 @@ morea_start_date: "2021-12-14T23:59"
 morea_sort_order: 12
 morea_labels:
 - Pflicht
+- Abgabe
 
 ---
 
