@@ -7,8 +7,7 @@ morea_type: assessment
 morea_start_date: "2021-11-16T23:59"
 morea_sort_order: 12
 morea_labels:
-- Obligate
-- Submissions
+- Abgabe
 ---
 
 # Vertraut machen mit Rmarkdown in RStudio
