@@ -9,6 +9,6 @@ morea_sort_order: 1
 morea_labels:
  - "Reading"
  - 10 min
- - Mandantory
+ - Pflicht
 ---
 

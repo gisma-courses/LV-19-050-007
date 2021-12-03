@@ -9,6 +9,7 @@ morea_icon_url: /morea/reading.png
 morea_sort_order: 3
 morea_labels:
   - Grundlagen
+  - Pflicht
 ---
 
 Aber auch wenn wir Sie fragen, wo Sie gestern gewesen sind, bewegen Sie sich sehr wahrscheinlich in Gedanken durch den von Ihnen wahrgenommenen Raum. Kurz gesagt: Wir alle leben im Raum, alle unsere Aktivitäten finden in diesem Raum statt und auch unsere Wahrnehmung der Welt ist sehr stark räumlich geprägt und wenn wir es genau betrachten entlang eines Zeitstrahls angeordnet. Es ist daher nicht verwunderlich, dass nicht nur in der Geographie dem Verständnis von räumlich und zeitlich wirksamen Prozessen eine bedeutsame Rolle zukommt.

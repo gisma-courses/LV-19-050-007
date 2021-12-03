@@ -7,7 +7,7 @@ morea_url: https://gisma-courses.github.io/moer-bsc-geoinfo-basic//unit02/unit02
 morea_type: reading
 morea_sort_order: 3
 morea_labels:
-  - Mandantory
+  - Pflicht
   - Grundlagen
 ---
 

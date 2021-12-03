@@ -25,7 +25,7 @@
     <div style="border-top-color: transparent" class="card-footer bg-body">
       {% for label in include.labels %}
       <!-- If customer.name = "anonymous" -->
-      {% if label contains "Mandantory" %}
+      {% if label contains "Mandantory" or label contains "Pflicht" %}
       <span class="badge badge-warning">{{ label }}</span>       
       {% elsif label contains "Submission" or label contains "Obligate" %}
       <span class="badge badge-danger">{{ label }}</span>       
