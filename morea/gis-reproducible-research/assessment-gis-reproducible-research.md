@@ -1,5 +1,5 @@
 ---
-title: "Aufgabe Website zur Dokumentation der Kursinhalte"
+title: "Aufgabe Rmarkdown Seiten zur Dokumentation der Kursinhalte"
 published: true
 morea_id: assessment-gis-reproducible-research
 morea_summary: Einrichten einer Website mit RStudio, die alle Übungen und die Kommunikation auf Github bereitstellt.
@@ -11,14 +11,12 @@ morea_labels:
 - Submissions
 ---
 
-# Einrichten einer Website mit RStudio, die alle Übungen und die Kommunikation auf Github bereitstellt.
+# Vertraut machen mit Rmarkdown in RStudio
 
 
-{% include quest.html content="Die Abgaben des Kurses sollen als Webseite erfolgen ."%}
+{% include quest.html content="Die Abgaben des Kurses sollen als Rmarkdown/Webseite erfolgen ."%}
 
 
 
 
-{% include task.html content="<br> - Befolgen Sie die Anleitungen zur Eirichtung eines solchen Blogs " %}
- 
 

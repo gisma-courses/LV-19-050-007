@@ -1,8 +1,8 @@
 ---
-title: "Assessment R-spatial GIS"
+title: "Aufgabe R-Spatial"
 published: true
 morea_id: assessment-r-spatial
-morea_summary: raster::writeraster? tmap? sf:st_intersection?
+morea_summary: R-SPatial Sentinel osmdata und mehr
 morea_readings:
  - experience-r-spatial-1
 morea_outcomes_assessed:
@@ -16,26 +16,11 @@ morea_labels:
 ---
 
 
-## Assessment of basic spatial-r-gis skills
+## Übung R-Spatial
 
 
 
-
-For this time no upload or defined exercise has to be done.
-
-
-
-{% include task.html content="<br>Please read and **apply** the following chapters of the [Geocomputation with R](https://geocompr.robinlovelace.net/index.html) book. <br> - [Introduction](https://geocompr.robinlovelace.net/intro.html)<br>
-- [Geographic Data in R](https://geocompr.robinlovelace.net/spatial-class.html)<br>
-- [Geographic Data IO](https://geocompr.robinlovelace.net/read-write.html#read-write)<br>
+  
+  {% include note.html content="
+Coming Soon  
 " %}
- 
-  {% include note.html content="
-  It would be very beneficial if you could get a solid overview of all the foundations chapters. What does that mean? At least you should have in mind for arising questions that there are solution examples. " %}
-  
-  {% include note.html content="
-  
-You might find it helpful to document your learning progress and experiences in a portfolio.Support is provided by the module [Reproducible Research](https://gisma-courses.github.io/LV-19-050-007/modules/gis-reproducible-research/) It provides some entry points for documenting and structuring inquiry-based learning and work. <br>
-  For this task you might follow the instructions you will find at [Academic wiriting made easy](https://gisma-courses.github.io/gi-modules/post/2021-11-16-making-of-academic-websites/). " %}
-
-{% include quest.html content="For this time no upload of the exercises has to be done."%}
