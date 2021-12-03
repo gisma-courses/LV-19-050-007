@@ -21,7 +21,7 @@ morea_icon_url: /morea/geocomputation-with-r/rspatial.png
 morea_start_date: "2021-11-02"
 morea_end_date: "2021-11-16"
 morea_labels:
-morea_sort_order: 20
+morea_sort_order: 15
 ---
 
 Automatische Analyse von Satellitendaten und mehr 

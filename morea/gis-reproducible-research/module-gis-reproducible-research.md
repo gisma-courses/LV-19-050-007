@@ -1,5 +1,5 @@
 ---
-title: "Reproduzierbare Forschung und ihre Dokumentation"
+title: "Wissenschaftliche Dokumentation und Reproduzierbare Forschung"
 published: true
 morea_coming_soon: false
 morea_id: gis-reproducible-research
@@ -15,9 +15,8 @@ morea_assessments:
  - assessment-gis-reproducible-research
 morea_icon_url: /morea/gis-reproducible-research/spatial-r-r.png
 morea_type: module
-morea_sort_order: 15
-morea_start_date: "2021-10-19"
-morea_start_date: "2021-10-29"
+morea_sort_order: 30
+morea_start_date: "2021-12-11"
 
 ---
 Die Bedeutung reproduzierbarer Forschung liegt in der Transparenz und Wiederholbarkeit von Forschungsergebnissen - d.h. der Möglichkeit auch experimentelle Verfahren zu wiederholen und damit bereits erzielte Ergebnisse zu bestätigen - dies ist das zentrale Element wissenschaftlicher Arbeit.

@@ -8,7 +8,7 @@ morea_readings:
 morea_outcomes_assessed:
  - outcome-r-spatial
 morea_type: assessment
-morea_start_date: "2021-11-09T23:59"
+morea_start_date: "2021-12-14T23:59"
 morea_sort_order: 12
 morea_labels:
 - Mandantory
