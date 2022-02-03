@@ -13,7 +13,8 @@ morea_readings:
   - reading-r-spatial-3
   - reading-screencast-r-spatial-2
 morea_experiences:
-  - experience-r-spatial-1  
+  - experience-r-spatial-1
+  - experience-r-spatial-2
 morea_assessments:
   - assessment-r-spatial
 morea_type: module
