@@ -1,5 +1,5 @@
 ---
-title: "R-Spatial in der Nussschale"
+title: "Erfassung von Landbedeckungsdynamik"
 published: true
 morea_id: experience-r-spatial-2
 morea_type: experience
