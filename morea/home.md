@@ -8,7 +8,7 @@ published: true
 ## Willkommen zu Veranstaltung LV-19-050-007 - Methoden der Geoinformatik
 
 
-Die Lehrveranstaltung Methoden der Geoinformatik bietet Überblick über ausgewählte Themen der Handhabung und Analyse von raum-zeitlichen Daten. Es werden sowohl interaktive Bearbeitung mit Werkzeugen wie QGIS als auch skriptbasierte reproduzierbare Arbeitsabläufe behandelt, basierend auf R und Open Source Software und einer vollständigen Integration von GitHub. 
+Die Lehrveranstaltung Methoden der Geoinformatik - Change Detection bietet eine vollständige Einführung in die reproduzierbare Veränderungserfassung von Landoberflächen/LAndnutzung (Change Detection) basierend auf R und Open Source Software. 
 
 ## Wer sollte diesen Kurs besuchen?
 
