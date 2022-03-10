@@ -1,24 +1,21 @@
 ---
-title: "R-spatial - GIS auf der Kommandozeile "
+title: "Change Detection Workflow zur Erfassung von Landnutzungs/Landbedeckungsänderungen "
 published: true
 morea_coming_soon: false
-morea_id: spatial-r-gis
+morea_id: spatial-cd
 morea_prerequisites:
-  - reading-3
+  - r-spatial
 morea_outcomes:
-  - outcome-r-spatial
+  - outcome-cd
 morea_readings:
-  - reading-r-spatial-1
-  - reading-r-spatial-3
-  - reading-r-spatial-3
-  - reading-screencast-r-spatial-2
 morea_experiences:
-  - experience-r-spatial-1
+  - experience-cd-1
+  - experience-cd-2
 morea_assessments:
-  - assessment-r-spatial
+  - assessment-cd
 morea_type: module
 morea_icon_url: /morea/geocomputation-with-r/rspatial.png
-morea_start_date: "2021-11-23"
+morea_start_date: "2022-01-23"
 morea_labels:
 morea_sort_order: 15
 ---
