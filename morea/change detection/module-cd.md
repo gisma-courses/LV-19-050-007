@@ -9,8 +9,8 @@ morea_outcomes:
   - outcome-cd
 morea_readings:
 morea_experiences:
-  - experience-cd-1
   - experience-cd-2
+  - experience-cd-3
 morea_assessments:
   - assessment-cd
 morea_type: module
