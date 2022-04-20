@@ -1,5 +1,5 @@
 ---
-title: "Waldflächenverluste am Beispiel Harz"
+title: "Waldflächenverluste im Harz"
 published: true
 morea_id: experience-cd-1
 morea_type: experience
