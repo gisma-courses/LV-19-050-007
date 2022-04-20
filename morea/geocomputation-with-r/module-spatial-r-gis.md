@@ -9,7 +9,7 @@ morea_outcomes:
   - outcome-r-spatial
 morea_readings:
   - reading-r-spatial-1
-  - reading-r-spatial-3
+  - reading-r-spatial-2
   - reading-r-spatial-3
   - reading-screencast-r-spatial-2
 morea_experiences:
