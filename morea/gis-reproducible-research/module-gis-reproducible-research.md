@@ -1,5 +1,5 @@
 ---
-title: "Wissenschaftliche Dokumentation und Reproduzierbare Forschung"
+title: "Reproduzierbare Wissenschaft"
 published: true
 morea_coming_soon: false
 morea_id: gis-reproducible-research
