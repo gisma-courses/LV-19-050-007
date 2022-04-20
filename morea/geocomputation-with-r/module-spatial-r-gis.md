@@ -20,7 +20,7 @@ morea_type: module
 morea_icon_url: /morea/geocomputation-with-r/rspatial.png
 morea_start_date: "2021-11-23"
 morea_labels:
-morea_sort_order: 15
+morea_sort_order: 10
 ---
 
 Automatische Analyse von Satellitendaten und mehr 

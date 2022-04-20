@@ -17,7 +17,7 @@ morea_start_date: "2021-10-26"
 morea_end_date: "2021-11-02"
 morea_labels: 
   - Einführung
-morea_sort_order: 10
+morea_sort_order: 5
 ---
 
 Diese einführenden Texte sollen eine grundsätzuliche Idee über die konzeptionellen und technischen Hintergründe vermitteln.
