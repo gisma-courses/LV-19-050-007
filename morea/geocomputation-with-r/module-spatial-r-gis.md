@@ -1,5 +1,5 @@
 ---
-title: "R-spatial - GIS auf der Kommandozeile "
+title: "R-spatial - GIS mit R "
 published: true
 morea_coming_soon: false
 morea_id: spatial-r-gis
