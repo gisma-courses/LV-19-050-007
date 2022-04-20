@@ -1,5 +1,5 @@
 ---
-title: "Change Detection Workflow zur Erfassung von Landnutzungs/Landbedeckungsänderungen "
+title: "Change Detection Workflow"
 published: true
 morea_coming_soon: false
 morea_id: spatial-cd
