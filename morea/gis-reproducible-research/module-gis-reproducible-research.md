@@ -19,4 +19,4 @@ morea_sort_order: 7
 morea_start_date: "2021-12-11"
 
 ---
-Die Bedeutung reproduzierbarer Forschung liegt in der Transparenz und Wiederholbarkeit von Forschungsergebnissen - d.h. der Möglichkeit auch experimentelle Verfahren zu wiederholen und damit bereits erzielte Ergebnisse zu bestätigen - dies ist das zentrale Element wissenschaftlicher Arbeit.
+Die Bedeutung reproduzierbarer Forschung liegt in der Transparenz und Wiederholbarkeit von Forschungsergebnissen.
