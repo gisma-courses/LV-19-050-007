@@ -1,5 +1,5 @@
 ---
-title: "R-Spatial in der Nussschale"
+title: "Waldflächenverluste am Beispiel Harz"
 published: true
 morea_id: experience-cd-1
 morea_type: experience
