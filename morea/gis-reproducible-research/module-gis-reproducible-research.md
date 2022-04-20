@@ -15,7 +15,7 @@ morea_assessments:
  - assessment-gis-reproducible-research
 morea_icon_url: /morea/gis-reproducible-research/spatial-r-r.png
 morea_type: module
-morea_sort_order: 30
+morea_sort_order: 7
 morea_start_date: "2021-12-11"
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Eine schnelle Einführung in GIS"
+title: "GIS in a Nutshell"
 published: true
 morea_coming_soon: false
 morea_id: module-prerequisites
@@ -20,4 +20,4 @@ morea_labels:
 morea_sort_order: 5
 ---
 
-Diese einführenden Texte sollen eine grundsätzuliche Idee über die konzeptionellen und technischen Hintergründe vermitteln.
+Diese einführenden Texte sollen die grundsätzlichen GIS-Konzepte skizzieren.
