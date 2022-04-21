@@ -1,3 +1,7 @@
+![Course Header](https://gisma-courses.github.io/LV-19-050-007/morea/header_gis.jpg "Image source: C.Reudenbach")
+
+
+
 This course is brought to you from the working group on Geoinformatics Science of the [Department of Geography](https://www.uni-marburg.de/fb19).
 
 
@@ -9,4 +13,6 @@ The responsibility for the content rests with the instructors. Statements, opini
 
 
 This repository contains a template Morea course site. For documentation on how to use Morea, please see https://morea-framework.github.io.
+
+
 
