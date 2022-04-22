@@ -26,6 +26,6 @@ Der Kurs ist als eine sequentielle, aber *nicht* notwendig lineare abzuarbeitend
 
 ## Verantortlich
 
-Der Kursinhalt wird auf [Github](https://gisma-courses.github.io/geoinfo-basis-qgis/) entwickelt und gehostet und von der [GISMA Geoinformatik Wissenschaft](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) Arbeitsgruppe entwickelt.
+Der Kursinhalt wird auf [Github](https://gisma-courses.github.io/geoinfo-basis-qgis/) entwickelt und gehostet und von der [GISMA](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) Geoinformatik Science Arbeitsgruppe entwickelt.
 
 Die Verantwortung für den Inhalt liegt bei den Dozenten. Aussagen, Meinungen und/oder Schlussfolgerungen sind die der Dozenten und spiegeln nicht notwendigerweise die Meinung der Vertreter der [Universität Marburg](https://www.uni-marburg.de/en) wider. 
