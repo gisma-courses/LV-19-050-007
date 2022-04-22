@@ -24,7 +24,7 @@ Der Kurs ist als eine sequentielle, aber *nicht* notwendig lineare abzuarbeitend
   * [Erfahrungen](/LV-19-050-007/experiences) - Training und Übungen um die Lernziele praktisch zu beherrschen.
   * [Assessments](/LV-19-050-007/assessments) - Studien-/Prüfungsleistungen.
 
-## Verantortlich
+## Copyright
 
 Der Kursinhalt wird auf [Github](https://gisma-courses.github.io/geoinfo-basis-qgis/) entwickelt und gehostet und von der [GISMA](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) Geoinformatik Science Arbeitsgruppe entwickelt.
 
