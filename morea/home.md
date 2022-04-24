@@ -24,8 +24,6 @@ Der Kurs ist als eine sequentielle, aber *nicht* notwendig lineare abzuarbeitend
   * [Erfahrungen](/LV-19-050-007/experiences) - Training und Übungen um die Lernziele praktisch zu beherrschen.
   * [Assessments](/LV-19-050-007/assessments) - Studien-/Prüfungsleistungen.
 
-## Copyright
-
 ## Referent
 
 [Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach), Arbeitsgruppe Geoinformatik (GISMA) des Fachbereichs Geographie der [Universität Marburg](https://www.uni-marburg.de/en). Der Kursinhalt wird auf [Github](https://github.com/gisma-courses/LV-19-050-007) entwickelt und gehostet.
