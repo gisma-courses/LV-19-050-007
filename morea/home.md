@@ -26,6 +26,8 @@ Der Kurs ist als eine sequentielle, aber *nicht* notwendig lineare abzuarbeitend
 
 ## Copyright
 
-Der Kursinhalt wird auf [Github](https://gisma-courses.github.io/geoinfo-basis-qgis/) entwickelt und gehostet und von der [GISMA](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) Geoinformatik Science Arbeitsgruppe entwickelt.
+## Referent
 
-Die Verantwortung für den Inhalt liegt bei den Dozenten. Aussagen, Meinungen und/oder Schlussfolgerungen sind die der Dozenten und spiegeln nicht notwendigerweise die Meinung der Vertreter der [Universität Marburg](https://www.uni-marburg.de/en) wider. 
+[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach), Arbeitsgruppe Geoinformatik (GISMA) des Fachbereichs Geographie der [Universität Marburg](https://www.uni-marburg.de/en). Der Kursinhalt wird auf [Github](https://github.com/gisma-courses/LV-19-005-007) entwickelt und gehostet.
+
+Die Verantwortung für den Inhalt liegt bei den Dozenten. Aussagen, Meinungen und/oder Schlussfolgerungen sind die der Dozenten und spiegeln nicht notwendigerweise die Meinung der Vertreter der Universität Marburg wider.
